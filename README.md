@@ -26,6 +26,8 @@ Log my journey of Causal Inference across SCM and PO
 
 ### Bandit Feedback (a.k.a Contextual Bandit)
 
+- Contextual Bandits typically select action $t$ based on the context $x$ - thisis related to the treatment assignment problem in causal inference, which is denoted as $P(t|x)$.
+
 
 ### Off-Policy Evaluation 
 - Doubly Robust Policy Evaluation and Learning (Dudik et al. 2011 ICML)
