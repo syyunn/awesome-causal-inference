@@ -17,7 +17,7 @@ Log my journey of Causal Inference across SCM and PO
 #### Bayesian Additive Regression Trees (BART)
 - BART: BAYESIAN ADDITIVE REGRESSION TREES (Chipman et al., 2010)
 
-### Domain Adaptation
+### Domain Adaptation (a.k.a Covariate Shift)
 
 - Learning Representations for Counterfactual Inference (Johansson, 2016 ICLR)
 
