@@ -9,6 +9,9 @@ Log my journey of Causal Inference across SCM and PO
 
 ## ITE
 
+This can be classified as two different approach: covariate-based method vs. latent-method (See Pearl 2015 "Detecting Latent Heterogeneity" for more details)
+
+
 ### Decision Trees
 
 #### Random Forest (Causal Forest)
